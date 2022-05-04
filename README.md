@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atanasov944
+- 👋 Hi, I’m Martin
 - 👀 I’m interested in Java and learning new languages
 - 🌱 I’m currently learning Java, HTML, CSS, JS
 - 💞️ I’m looking to collaborate
